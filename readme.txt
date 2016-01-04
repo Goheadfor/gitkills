@@ -1,5 +1,3 @@
-study twice
-
 add number 
 
 study three 
